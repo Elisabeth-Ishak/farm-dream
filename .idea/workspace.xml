@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e4afe870-ee56-4852-90b2-657b056e6372" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/Ishak_Java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AufgabeBruchrechnen/src/logic/Fraction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Farm2/Farm3/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Farm2/Farm3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Farm2/Farm3/Farm3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Farm2/Farm3/out/production/Farm3/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Farm2/Farm3/out/production/Farm3/animals/Chicken.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Farm2/Farm3/out/production/Farm3/animals/Cow.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Farm2/Farm3/out/production/Farm3/animals/Sheep.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Farm2/Farm3/out/production/Farm3/farm/Farm.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Farm2/Farm3/out/production/Farm3/logic/FarmService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Farm2/Farm3/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Farm2/Farm3/src/animals/Chicken.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Farm2/Farm3/src/animals/Cow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Farm2/Farm3/src/animals/Sheep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Farm2/Farm3/src/farm/Farm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/animals/Health.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/AnimalType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/ConsoleColor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/Personality.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/RainbowText.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/Weather.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/farm/Production.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/farm/Resource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/logic/RandomEvents.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../__MACOSX/._Farm4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../__MACOSX/Farm4/._.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../__MACOSX/Farm4/._.idea" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../__MACOSX/Farm4/._Farm3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../__MACOSX/Farm4/._out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../__MACOSX/Farm4/._src" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../__MACOSX/Farm4/.idea/._.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../__MACOSX/Farm4/.idea/._misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../__MACOSX/Farm4/.idea/._modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../__MACOSX/Farm4/.idea/._vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../__MACOSX/Farm4/.idea/._workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../__MACOSX/Farm4/out/._production" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../__MACOSX/Farm4/out/production/._Farm3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../__MACOSX/Farm4/out/production/Farm3/._Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../__MACOSX/Farm4/out/production/Farm3/._animals" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../__MACOSX/Farm4/out/production/Farm3/._farm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../__MACOSX/Farm4/out/production/Farm3/animals/._Animal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../__MACOSX/Farm4/out/production/Farm3/animals/._Chicken.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../__MACOSX/Farm4/out/production/Farm3/animals/._Cow.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../__MACOSX/Farm4/out/production/Farm3/animals/._HungerManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../__MACOSX/Farm4/out/production/Farm3/animals/._Sheep.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../__MACOSX/Farm4/out/production/Farm3/farm/._Farm.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../__MACOSX/Farm4/src/._Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../__MACOSX/Farm4/src/._animals" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../__MACOSX/Farm4/src/._farm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../__MACOSX/Farm4/src/animals/._Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../__MACOSX/Farm4/src/animals/._Chicken.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../__MACOSX/Farm4/src/animals/._Cow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../__MACOSX/Farm4/src/animals/._HungerManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../__MACOSX/Farm4/src/animals/._Sheep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../__MACOSX/Farm4/src/farm/._Farm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AufgabeBruchrechnen/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AufgabeBruchrechnen/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AufgabeBruchrechnen/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AufgabeBruchrechnen/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AufgabeBruchrechnen/src/logic/Bruch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Farm2/Farm3/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Farm2/Farm3/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Farm3~5e49a5936fff277f800af33187c6f6d972c0d7dd" beforeDir="false" afterPath="$PROJECT_DIR$/../Farm3~5e49a5936fff277f800af33187c6f6d972c0d7dd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/animals/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/animals/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/animals/Chicken.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/animals/Chicken.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/animals/Cow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/animals/Cow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/animals/Sheep.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/animals/Sheep.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/farm/Farm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/farm/Farm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../farm2/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/../Farm2/Farm3/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../farm2/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../farm2/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Farm2/Farm3/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../farm2/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../farm2/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../farm2/Farm2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Aufgaben_Methoden/Aufgaben_Methoden.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../farm2/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../farm2/src/logic/FarmService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Farm2/Farm3/src/logic/FarmService.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2vDrzatJ0smSGkxp1OZyk4G6otF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "Merging main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/elisabethisaak/Desktop/java_ishak/Farm4",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "/Users/elisabethisaak/Desktop/Ishak_Java/Farm3/src/Main.java",
+    "settings.editor.selected.configurable": "configurable.group.appearance",
+    "show.migrate.to.gradle.popup": "false",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-a94e463ab2e7-intellij.indexing.shared.core-IU-243.26053.27" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-IU-243.26053.27" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e4afe870-ee56-4852-90b2-657b056e6372" name="Changes" comment="" />
+      <created>1743690750319</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1743690750319</updated>
+      <workItem from="1743690751305" duration="148000" />
+      <workItem from="1743850637774" duration="169000" />
+      <workItem from="1743850810358" duration="27013000" />
+      <workItem from="1743899898233" duration="3000" />
+      <workItem from="1745334427017" duration="177000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
